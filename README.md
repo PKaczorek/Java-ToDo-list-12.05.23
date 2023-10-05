@@ -1,13 +1,11 @@
-# Warsztat1-12.05.23
-warsztat-coderslab: 
+# Java ToDo list-12.05.23
+Workshop-coderslab: 
 *To-do app* giving you access to adding/removing/viewing tasks on the list. 
-W projekcie tym użyto praktycznie wszystkie rzeczy o których mówiliśmy podczas tego modułu takie jak:
+Simple Project to train acquired knowledge :
 
-    -metody,
-    -wczytywanie danych
-    -tablice wielowymiarowe,
-    -czytanie plików,
-    -zapis danych do plików,
-    -import oraz wykorzystanie zewnętrznych bibliotek.
-
-Wszystko to będzie możliwe do zastosowania w tym projekcie! 
+    -methods,
+    -loading data
+    -MultiDimensional tables,
+    -reading files,
+    -saving data,
+    -import and usage of libraries.
